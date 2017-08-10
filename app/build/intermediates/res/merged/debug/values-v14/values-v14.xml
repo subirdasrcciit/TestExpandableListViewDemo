@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/values-v14/colors.xml -->
+    <eat-comment/>
+    <color name="actionbarbg">#5c6cd2</color>
+    <color name="ash">#a3a0a0</color>
+    <color name="black">#000000</color>
+    <color name="brawn_dark">#7d4b2e</color>
+    <color name="brawn_extra_light">#d7ae89</color>
+    <color name="brawn_light">#af704c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="cyan">#00ffff</color>
+    <color name="empty_cell">#EBF4FA</color>
+    <color name="green">#97f25e</color>
+    <color name="half_transparent">#80000000</color>
+    <color name="link_color">#3366BB</color>
+    <color name="matte_red">#ecce4b4b</color>
+    <color name="occupied_cell">#B4CFEC</color>
+    <color name="one_third_transparent">#C0000000</color>
+    <color name="orange">#ea7130</color>
+    <color name="oup_blue">#002147</color>
+    <color name="press_color_effect">#D4D4D4</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#f5eb2c</color>
+    <!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/values-v14/attrs.xml -->
+    <eat-comment/>
+    <declare-styleable name="CircleImageView">
+        <attr format="dimension" name="civ_border_width"/>
+        <attr format="color" name="civ_border_color"/>
+        <attr format="boolean" name="civ_border_overlay"/>
+        <attr format="color" name="civ_fill_color"/>
+    </declare-styleable>
+    <!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/values-v14/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+    <!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v14/values-v14.xml -->
+    <eat-comment/>
+    <style name="Base.TextAppearance.AppCompat.Button">
+        <item name="android:textSize">@dimen/abc_text_size_button_material</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
+    <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
+    <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="Platform.V14.AppCompat.Light" parent="Platform.V11.AppCompat.Light">
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+
+        <item name="android:listPreferredItemPaddingLeft">@dimen/abc_list_item_padding_horizontal_material</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/abc_list_item_padding_horizontal_material</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.StatusBar.EventContent.Info"/>
+    <style name="TextAppearance.StatusBar.EventContent.Line2">
+        <item name="android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Time"/>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+</resources>
