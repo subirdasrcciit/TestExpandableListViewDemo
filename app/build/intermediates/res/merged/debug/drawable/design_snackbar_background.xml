@@ -19,4 +19,4 @@
        android:shape="rectangle">
     <corners android:radius="@dimen/design_snackbar_background_corner_radius"/>
     <solid android:color="@color/design_snackbar_background_color"/>
-</shape><!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml -->
+</shape>

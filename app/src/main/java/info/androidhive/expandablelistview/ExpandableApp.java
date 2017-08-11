@@ -7,8 +7,6 @@ import com.microsoft.azure.mobile.MobileCenter;
 import com.microsoft.azure.mobile.analytics.Analytics;
 import com.microsoft.azure.mobile.crashes.Crashes;
 
-import info.androidhive.expandablelistview.util.Constants;
-
 /**
  * Created by mobilecoe-imac6 on 06/04/17.
  */
@@ -23,7 +21,7 @@ public class ExpandableApp extends Application {
         instance = this;
         mContext = this;
 
-        MobileCenter.start(this, Constants.MOBILE_CENTER_KEY,
+        MobileCenter.start(this, "8ab1c2d9-6f16-4050-8585-95628384b9e2",
                 Analytics.class, Crashes.class);
     }
 

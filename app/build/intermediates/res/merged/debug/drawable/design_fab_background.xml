@@ -18,4 +18,4 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
         android:shape="oval">
     <solid android:color="@android:color/white" />
-</shape><!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml -->
+</shape>

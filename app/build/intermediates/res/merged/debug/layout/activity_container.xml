@@ -33,4 +33,4 @@
             android:src="@android:drawable/ic_dialog_email" />
         -->
 
-</android.support.design.widget.CoordinatorLayout><!-- From: file:/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/layout/activity_container.xml -->
+</android.support.design.widget.CoordinatorLayout>

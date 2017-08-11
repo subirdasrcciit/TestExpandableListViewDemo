@@ -1,0 +1,7 @@
+#Fri Aug 11 15:50:31 IST 2017
+base.0=/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_843b29b13d8bd2b7db2d0ff8f98b4c437296c190
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0f5c91c02f8ed1d7b730b3e73f18511e86d4179/classes.dex
+base.1=/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0f5c91c02f8ed1d7b730b3e73f18511e86d4179
+file.0=/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_843b29b13d8bd2b7db2d0ff8f98b4c437296c190/classes.dex

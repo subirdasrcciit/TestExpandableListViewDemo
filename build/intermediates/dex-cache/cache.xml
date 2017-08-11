@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18089ae2d36c0c3c3ce1634701e045839a3a0b48">
+        <dex dex="/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0f5c91c02f8ed1d7b730b3e73f18511e86d4179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_843b29b13d8bd2b7db2d0ff8f98b4c437296c190/classes.dex" />
+    </item>
+
+</items>

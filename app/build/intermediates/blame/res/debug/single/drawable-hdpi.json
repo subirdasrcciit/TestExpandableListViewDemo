@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/res/merged/debug/drawable-hdpi/add.png",
+        "source": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/res/merged/debug/drawable-hdpi/cart.png",
+        "source": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/drawable-hdpi/cart.png"
+    },
+    {
+        "merged": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/res/merged/debug/drawable-hdpi/menu.png",
+        "source": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/drawable-hdpi/menu.png"
+    },
+    {
+        "merged": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/res/merged/debug/drawable-hdpi/minus.png",
+        "source": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/drawable-hdpi/minus.png"
+    },
+    {
+        "merged": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/build/intermediates/res/merged/debug/drawable-hdpi/back.png",
+        "source": "/Users/mobilecoe-imac6/Desktop/SUBIR_WP/ExpandableListView/app/src/main/res/drawable-hdpi/back.png"
+    }
+]
